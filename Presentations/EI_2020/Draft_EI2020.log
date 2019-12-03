@@ -1,0 +1,360 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.21)  21 NOV 2019 15:43
+entering extended mode
+**./Draft_EI2020.tex
+(Draft_EI2020.tex
+LaTeX2e <2019-10-01> patch level 3
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\arti
+cle.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleq
+n.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size
+10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (ist.sty
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\he
+lvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
+keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ma
+thptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
+graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
+graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
+trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
+cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
+def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\bibindent=\dimen106
+\bibspacing=\dimen107
+) (Draft_EI2020.aux
+
+LaTeX Warning: Label `Figure:logo' multiply defined.
+
+)
+\openout1 = `Draft_EI2020.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+7.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot
+1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\big@size=\dimen108
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mk
+ii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen109
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen110
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
+epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
+grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
+kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\i
+fluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\i
+ftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
+k\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\i
+fpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 39.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+9.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot
+1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 47.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 62.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot
+1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 62.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\om
+lztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 62.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\om
+sztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 62.
+
+("C:\Users\Paul_Lemaillet\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\om
+xztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 109.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\OT1/phv/m/n/9 subsubsection en-vi-ron-
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 129.
+
+Underfull \hbox (badness 1939) in paragraph at lines 128--129
+[]\OT1/phv/m/n/9 bibliography + com-mand
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 112--134
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.51439pt too wide) in paragraph at lines 161--168
+ [] 
+ []
+
+<logo.png, id=1, 105.996pt x 90.0966pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 172.
+(pdftex.def)             Requested size: 70.46396pt x 59.8956pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <7> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <7> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 173.
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 183.
+(pdftex.def)             Requested size: 70.46396pt x 59.8956pt.
+[1{C:/Users/Paul_Lemaillet/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+[2
+
+ <./logo.png (PNG copy)>] (Draft_EI2020.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1802 strings out of 492450
+ 27710 string characters out of 3115801
+ 99632 words of memory out of 3000000
+ 6119 multiletter control sequences out of 15000+200000
+ 41104 words of font info for 74 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,32p,304b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Paul_Lemaillet/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Paul_Lemaillet/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic
+/uhvb8a.pfb><C:/Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvbo8a.pfb><C:/Users/Paul_Lemaillet/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Paul_Lemaillet/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/Paul_Le
+maillet/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/
+Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Users/Paul_Lemaillet/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/urw/times/utmri8a.pfb>
+Output written on Draft_EI2020.pdf (2 pages, 115749 bytes).
+PDF statistics:
+ 51 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
